@@ -11,6 +11,7 @@ TrashBeta is a data-driven project that evaluates the feasibility of a centraliz
 
 ---
 
+
 ## Problem Statement
 
 Waste reporting in Nigeria operates across disconnected channels, including physical visits to local government offices, phone calls to waste operators, and informal complaints on social media.
