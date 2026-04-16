@@ -1,0 +1,2 @@
+# TrashBeta-Waste-Management-Data-Analysis-and-Reporting-System-Nigeria-Case-Study-
+TrashBeta was developed as a data-driven concept to evaluate the feasibility of a centralized digital waste reporting platform. The project leverages citizen-reported data to uncover patterns in waste management failures, assess public readiness for digital reporting, and provide actionable insights for operational and policy improvement.
