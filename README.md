@@ -149,13 +149,15 @@ By transforming fragmented reports into structured insights, TrashBeta highlight
 
 ## Links
 
-- Power BI File: Download the PBIX file [https://drive.google.com/file/d/1AIvHjMEkdJnhSrrOEgbtLQhh9y4EAJ1G/view?usp=drive_link]  
-- Technical Report: View on Google Docs or PDF [https://docs.google.com/document/d/1QjuPAFA7reuupPTVayUMWaUZ1mFUTohIH6KfkZLoG0s/edit?usp=drive_link]  
-- Dataset Download [https://drive.google.com/file/d/1QIsWdo7MBxqTUDrBxD7jiorDdaIHJoS6/view?usp=drive_link]  
+## Links
+
+- [Download the Power BI File](https://drive.google.com/file/d/1AIvHjMEkdJnhSrrOEgbtLQhh9y4EAJ1G/view?usp=drive_link)  
+- [View the Technical Report](https://docs.google.com/document/d/1QjuPAFA7reuupPTVayUMWaUZ1mFUTohIH6KfkZLoG0s/edit?usp=drive_link)  
+- [Download the Dataset](https://drive.google.com/file/d/1QIsWdo7MBxqTUDrBxD7jiorDdaIHJoS6/view?usp=drive_link)  
 
 ---
 
 ## Contact
 
-Email: modepetosin9@gmail.com  
-LinkedIn: Connect with Me [https://www.linkedin.com/in/ayodele-modupe-45481917a/]
+- Email: [modepetosin9@gmail.com](mailto:modepetosin9@gmail.com)  
+- LinkedIn: [Connect with Me](https://www.linkedin.com/in/ayodele-modupe-45481917a/)  
